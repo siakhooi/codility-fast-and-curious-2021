@@ -19,6 +19,6 @@
 
 ### Gold Award
 
-| File | Complexity | Result | Report                                                                    |
-| ---- | ---------- | ------ | ------------------------------------------------------------------------- |
-| `A`  | `O(N)`     | `Good` | [YC2F6W](https://app.codility.com/cert/view/certYC2F6W-9KTFU4ZWAKQCVTRK/) |
+| File | Complexity | Result | Report                                                                            |
+| ---- | ---------- | ------ | --------------------------------------------------------------------------------- |
+| `A`  | `O(N)`     | `Good` | [YC2F6W](https://app.codility.com/cert/view/certYC2F6W-9KTFU4ZWAKQCVTRK/details/) |
